@@ -1,0 +1,7 @@
+{
+  "name": "Emerald Dental Clinic",
+  "description": "A premium, professional dental clinic web application featuring a real-time booking system, services showcase, and modern UI/UX design following healthcare industry standards.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
